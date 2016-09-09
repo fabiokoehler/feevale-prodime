@@ -1,0 +1,2 @@
+selectWindow("IM-0001-0040.dcm");
+run("EFat ");
